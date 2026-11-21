@@ -1,0 +1,6 @@
+{
+  "name": "AI Chat",
+  "description": "A full-stack ChatGPT clone powered by Gemini API, with support for MongoDB chat history persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
